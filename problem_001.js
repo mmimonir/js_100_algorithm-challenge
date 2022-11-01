@@ -15,3 +15,4 @@ function array_replace(array, replacer, which_replace) {
 array_replace([1, 2, 1, 4, 5, 1, 7, 8, 9, 1], 5, 1);
 
 // time complexity: O(n)
+// space complexity: O(1)
